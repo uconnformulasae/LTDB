@@ -7,5 +7,16 @@
   },
   "pps": {
     "medium": 58.074534161490675
+  },
+  "last_text": {
+    "big": true,
+    "rows": {
+      "1": {
+        "text": "{red}{steady}HARV",
+        "align": "center",
+        "marquee": "off",
+        "font": "wide"
+      }
+    }
   }
 }

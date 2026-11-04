@@ -37,7 +37,7 @@ Everything was verified on the real display (see *What was tested* at the end).
   hub's Ethernet port ("Ethernet 3").
 * Windows, macOS or Linux. Developed and tested on Windows 11.
 
-Nothing to install. Open a terminal in this folder (`C:\Users\harsh\Desktop\LTDB`) and run the
+Nothing to install. Open a terminal in this folder (`C:\path to your chosen clone destination\LTDB`) and run the
 commands below.
 
 ## Quick start
